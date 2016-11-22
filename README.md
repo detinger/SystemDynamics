@@ -1,4 +1,4 @@
 # System Dynamics
 
-testiranje github repozitorija za potrebe kolegija Modeliranje i simulacija
+Testiranje github repozitorija za potrebe kolegija Modeliranje i simulacija
 
